@@ -3,7 +3,6 @@
 header{
     width: 100%;
 }
-
 .menu_principal{
     background-color: rgba(84, 85, 64, 0.959);
     height: 70px;
@@ -13,17 +12,16 @@ header{
  ul {
     padding: 0px!important;
 }
-
 body{
     width: 100%;
     height: 100%;
     margin: 0 auto;
 }
 main{
+    height: 50px;
     margin: 0 auto;
     width: 980px;
     position: relative;
-    
 }
 .logo{
     padding: 5px;
@@ -34,25 +32,28 @@ main{
     margin-left: 8px;
     display: inline-block;
     float: left;
-
 }
 .redes_sociais{
    width: 20%;
    float: right;
    padding: 8px;
 }
-
 .header_2{
     background-color: rgb(0, 0, 0);
     width: 980px;
     padding-left: 177px;
    
 }
-
+.menu ul li a:hover{
+    color: rgb(255, 81, 0);
+}
+.menu ul li:hover{
+   border-bottom:2px solid rgb(255, 81, 0) ;
+   height: 30px; 
+}
 .menu ul li {
     display: inline-block; 
     margin-left: 20px;
- 
 }
 .menu ul li a{
    color: rgb(255, 240, 35);
