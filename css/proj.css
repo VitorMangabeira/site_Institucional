@@ -44,7 +44,7 @@ main, .content{
 .header_2{
     background-color: rgb(0, 0, 0);
     width: 980px;
-    padding-left: 177px;
+    padding-left: 420px;
    
 }
 .menu ul li a:hover{
@@ -165,13 +165,13 @@ h1{
 footer .container{
     color: rgb(255, 230, 0);
     background-color: #ff3d03;
-    height: 1170px;
+    height: 1300px;
     list-style: none;
 }
 #pg{
     color: #000000;
     position: relative;
-    left: 400px;
+    left: 700px;
     top: -140px;
     list-style: none;
     text-decoration: none;
@@ -188,15 +188,15 @@ footer .container{
 #pa{
     color: #000000;
     position: relative;
-    left: 700px;
-    top: -280px;
+    left: 950px;
+    top: -273px;
     list-style: none;
 }
 #po{
     color: #000000;
     position: relative;
-    left: 1000px;
-    top: -400px;
+    left: 1300px;
+    top: -390px;
     list-style: none;
     
 }
