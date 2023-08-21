@@ -74,6 +74,12 @@ main, .content{
     padding: 0px;
     background-color: rgb(0, 0, 0);
 }
+.col-100 img{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 button.slick-prev{
     font-size: 0px;
     border: none;
