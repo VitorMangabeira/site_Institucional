@@ -18,6 +18,7 @@ body{
     height: 100%;
     margin: 0 auto;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 main, .content{
     height: 50px;
@@ -165,7 +166,7 @@ footer .container{
     color: #000000;
     position: relative;
     left: 400px;
-    top: -150px;
+    top: -140px;
     list-style: none;
     text-decoration: none;
 }
@@ -182,14 +183,14 @@ footer .container{
     color: #000000;
     position: relative;
     left: 700px;
-    top: -290px;
+    top: -280px;
     list-style: none;
 }
 #po{
     color: #000000;
     position: relative;
     left: 1000px;
-    top: -411px;
+    top: -400px;
     list-style: none;
     
 }
